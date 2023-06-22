@@ -1,4 +1,4 @@
-# React-Admin-Dashboard-app
+# **`React-Admin-Dashboard-app`**
 In the project directory, you can run:
 
 **`npm Start`**
